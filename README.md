@@ -136,7 +136,7 @@ pdftools::pdf_convert(pdf = glue::glue("{path}.pdf"),
 
 ![](plots/Most_lines_per_season.png) Ok, as you’ve probably guessed if
 you’re a fan of the series, Michael speaks *a lot*. Almost 1 line every
-3 is said by the World best boss ( ;) ). Andy is the character with most
+3 is said by the World best boss (😉). Andy is the character with most
 lines in season 8, which is reasonable since he becomes the regional
 manager.
 
@@ -344,7 +344,7 @@ pdftools::pdf_convert(pdf = glue::glue("{path}.pdf"),
 Ha! Before looking at this, I would have probably said that Erin was the
 most positive character. She’s second, behind Jim! Stanley is the most
 negative, probably because he said a lot of times that he just doesn’t
-want to work :).
+want to work 😅.
 
 I’m actually surprised to see that Dwight is the 2nd most negative
 character, but this is explainable via the sentiment-dictionary that I
