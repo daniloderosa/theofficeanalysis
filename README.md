@@ -412,6 +412,6 @@ pdftools::pdf_convert(pdf = glue::glue("{path}.pdf"),
 
 </details>
 
-  ![](https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/That's%20what%20she%20said.png)
+  ![](https://raw.githubusercontent.com/daniloderosa/theofficeanalysis/main/plots/thats_what_she_said.png)
 
 I think I’m quite pleased with the result.
