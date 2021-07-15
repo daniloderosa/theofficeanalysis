@@ -1,7 +1,6 @@
 Analyzing The Office’s dialogues
 ================
-Danilo De Rosa
-2021/07/14
+
 
 I stumbled acroos an R package named ‘schrute’ that is basically a
 dataset with all the dialogues in The Office, one of my favourite TV
