@@ -2,7 +2,7 @@ Analyzing The Office’s dialogues
 ================
 
 
-I stumbled acroos an R package named ‘schrute’ that is basically a
+I stumbled across an R package named ‘schrute’ that is basically a
 dataset with all the dialogues in The Office, one of my favourite TV
 series. So I thought: let’s give it a try!
 
